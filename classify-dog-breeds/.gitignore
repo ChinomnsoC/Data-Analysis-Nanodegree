@@ -36,8 +36,9 @@ t2.py
 dist
 
 /.mypy_cache/
-Udacity Reviews.pdf
+UdacityReviews.pdf
 .DS_Store
 /images
 .keys.js
+keys.js
 *.pdf
