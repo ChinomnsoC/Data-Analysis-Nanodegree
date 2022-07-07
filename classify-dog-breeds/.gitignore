@@ -38,3 +38,6 @@ dist
 /.mypy_cache/
 Udacity Reviews.pdf
 .DS_Store
+/images
+.keys.js
+*.pdf
